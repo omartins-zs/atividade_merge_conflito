@@ -1,0 +1,1 @@
+Inico da atividade para o trio criar branchs, realizar pulls, e fazer merge e resolver um conflito.
