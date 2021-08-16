@@ -26,7 +26,7 @@
  - Criação de 3 Branch (Uma para cada desenvolvedor e a master sendo apenas para inicio de projeto)
  - Criação de arquivos diferentes nas branchs funcionalidade
  - Criação de arquivo igual para em seguida resolver conflito e fazer merging
- - Branch developed usada para resolver fazer merging e resolver conflito
+ - Branch developed usada para fazer merging e resolver conflito
 
 ---
  
